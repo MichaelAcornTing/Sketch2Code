@@ -10,7 +10,7 @@ function Home() {
         </div>
         <div className='body'>
             <h3>Transform sketches of a webpage into actual code which can be previewed and downloaded</h3>
-            <h4>Follow this tutorial: <a href="/tutorial" target="_blank">Tutorial</a></h4>
+            <h4>Follow this tutorial: <a href="/tutorial">Tutorial</a></h4>
             <h4>Jump straight into the app!: <a href="/main">Get Started</a></h4>
             <br />
             <h3>Supported HTML Elements:</h3>
