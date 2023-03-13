@@ -7,6 +7,7 @@ import Tutorial from './Components/Tutorial/Tutorial';
 import Main from './Components/Main/Main'; 
 import Tags from './Components/Tags/Tags';
 import SketchExamples from './Components/SketchExamples/SketchExamples';
+import Conversion from './Components/Conversion/Conversion';
  
 
 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/main" element={<Main />} />
         <Route path="/tags" element={<Tags />} />
         <Route path="/sketch-examples" element={<SketchExamples />} />
+        <Route path="/conversion" element={<Conversion />} />
       </Routes>
   );
 }
